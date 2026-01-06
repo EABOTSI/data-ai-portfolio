@@ -9,28 +9,22 @@ and Generative AI, focused on real-world decision support.
 
 ---
 
-## 📊 Project 1: Public Health Data Analysis (EDA)
-- Python-based exploratory data analysis
-- Data quality checks, outlier detection, correlation analysis
-- Baseline regression model for validation
-
-**Tools:** Pandas, NumPy, Matplotlib, scikit-learn
+### 📊 Project 1: Public Health Data Analysis (EDA)
+🔗 **View Notebook:** ./Project_1_Public_Health_EDA/Public_Health_Data_Analysis_EDA_REORDERED.ipynb
+**Description:** Structured EDA including data quality checks, correlations, and baseline modeling.
 
 ---
 
-## 📈 Project 2: Statistical Analysis for Decision-Making
-- Hypothesis testing (Pearson correlation)
-- Group comparison using t-tests
-- Clear interpretation for decision support
-
-**Tools:** SciPy, Pandas, NumPy
+### 📈 Project 2: Statistical Analysis for Decision-Making
+🔗 **View Notebook:** ./Project_2_Statistical_Decision_Making/02_statistical_analysis_decision_making.ipynb
+**Description:** Hypothesis testing, t-tests, correlation analysis with clear interpretation.
 
 ---
 
-## 🤖 Project 3: Generative AI Text Summarization Assistant
-- Prompt-driven AI summarization workflow
-- Structured outputs (insights, risks, recommendations)
-- JSON export for reporting and automation
+### 🤖 Project 3: Generative AI Text Summarization Assistant
+🔗 **View Code:** ./Project_3_GenerativeAI_Summarizer/app.py
+🔗 **Sample Output:** ./Project_3_GenerativeAI_Summarizer/outputs/summaries/summary_*.json
+**Description:** Demonstrated prompt engineering and structured summarization logic.
 
 **Tools:** Python, Prompt Engineering
 
