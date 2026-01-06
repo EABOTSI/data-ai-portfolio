@@ -33,3 +33,6 @@ and Generative AI, focused on real-world decision support.
 ## 📌 Author
 **Edwin Elorm Abotsi**  
 Data Analytics & AI | Python | Generative AI
+
+## 📌 Contributors
+- **Edwin Elorm Abotsi** — *Creator, Data & AI Developer*
