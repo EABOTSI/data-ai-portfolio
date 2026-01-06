@@ -1,0 +1,36 @@
+# Public Health Data Analysis (Python EDA)
+
+## Overview
+This project demonstrates a complete Exploratory Data Analysis (EDA) workflow using Python.
+It includes data profiling, correlation analysis, visualization, and actionable insights.
+
+## Tools
+- Python, Pandas, NumPy
+- Matplotlib
+- scikit-learn (dataset source)
+
+## Outputs
+- Saved charts in `outputs/figures/`
+- Summary tables in `outputs/tables/` (to be added)
+
+## Next Steps
+- Add missing-value handling and outlier checks
+- Create an insights report
+- Replace sample dataset with real public health / M&E dataset
+
+
+### Key Insight
+The variables with the strongest relationship to disease progression are related
+to metabolic indicators. This suggests that targeted interventions focusing on
+these factors may significantly influence outcomes.
+
+### Model Note
+A baseline linear regression model was used to validate whether the explored
+features have predictive relevance. This model is illustrative and not tuned.
+
+## Summary of Insights
+- The dataset is clean with no significant missing data.
+- Several metabolic indicators show strong correlation with disease progression.
+- Exploratory analysis suggests meaningful statistical relationships.
+- A baseline predictive model confirms relevance of key variables.
+- This workflow can be applied to real public-health and M&E datasets.
