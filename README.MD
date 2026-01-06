@@ -3,6 +3,7 @@
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/EABOTSI/data-ai-portfolio)](https://github.com/EABOTSI/data-ai-portfolio)
 [![Python](https://img.shields.io/badge/Python-%23FFCC00?logo=python&logoColor=blue)](https://www.python.org/)
 [![Notebook](https://img.shields.io/badge/Jupyter%20Notebook-EA0A8E?logo=jupyter)](https://jupyter.org/)
+🔗 **Portfolio (Notion):** https://your-notion-link-here
 
 # Public Health Data Analysis (Python EDA)
 
