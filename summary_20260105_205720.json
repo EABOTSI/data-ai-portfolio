@@ -1,0 +1,22 @@
+{
+  "one_sentence_summary": "Generative AI can help decision-makers quickly extract insights from large volumes of analytical reports.",
+  "key_insights": [
+    "Large volumes of reports slow down decision-making.",
+    "Summarization can convert long text into decision-ready insights.",
+    "Structured outputs improve readability and usability."
+  ],
+  "risks": [
+    "Automated summaries may omit important context.",
+    "Outputs require human validation for accuracy and bias."
+  ],
+  "recommendations": [
+    "Use GenAI as decision support, not a final authority.",
+    "Validate summaries with domain experts before action.",
+    "Standardize templates for consistent reporting across teams."
+  ],
+  "metadata": {
+    "mode": "offline_simulation",
+    "prompt_used": "SUMMARY_PROMPT (template-based)",
+    "prompt_preview": "You are an AI assistant for data analysts and public-sector decision-makers.\n\nTask:\nSummarize the text into a structured JSON-like format with:\n- key_insights: 3\u20136 bullet points\n- risks: 2\u20135 bullet points\n- recommendations: 3\u20136 bullet points\n- one_sentence_summary: 1 sentence\n\nText:\nPublic health programs often rely on periodic monitoring and evaluation to\nassess effectiveness. However, large volumes of reports make it difficult for\ndecision-makers to quickly extract key insights...\n"
+  }
+}
